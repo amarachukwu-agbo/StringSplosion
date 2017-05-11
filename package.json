@@ -1,0 +1,19 @@
+{
+  "name": "string-splosion",
+  "version": "1.0.0",
+  "description": "A function that carries out string splosion on a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/test.js"
+  },
+  "keywords": [
+    "string",
+    "splosion",
+    "class"
+  ],
+  "author": "Agbo Amarachukwu <amarachukwu.agbo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
